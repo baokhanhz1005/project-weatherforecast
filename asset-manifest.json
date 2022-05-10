@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/project-weatherforecast/static/css/main.e6c13ad2.css",
+    "main.js": "/project-weatherforecast/static/js/main.01e434ed.js",
+    "static/js/787.b7019c3e.chunk.js": "/project-weatherforecast/static/js/787.b7019c3e.chunk.js",
+    "static/media/background.jpg": "/project-weatherforecast/static/media/background.a42ba6f1c03ec5ce3ba7.jpg",
+    "static/media/03d.svg": "/project-weatherforecast/static/media/03d.8aae64e148061165e15e.svg",
+    "static/media/03n.svg": "/project-weatherforecast/static/media/03n.8aae64e148061165e15e.svg",
+    "static/media/13d.svg": "/project-weatherforecast/static/media/13d.1a4d86a11100882da6bd.svg",
+    "static/media/13n.svg": "/project-weatherforecast/static/media/13n.1a4d86a11100882da6bd.svg",
+    "static/media/11d.svg": "/project-weatherforecast/static/media/11d.91abdb0f63a870f7f72c.svg",
+    "static/media/11n.svg": "/project-weatherforecast/static/media/11n.91abdb0f63a870f7f72c.svg",
+    "static/media/02d.svg": "/project-weatherforecast/static/media/02d.ee6728070029b38cef5f.svg",
+    "static/media/02n.svg": "/project-weatherforecast/static/media/02n.4d75cec2ba8949aad298.svg",
+    "static/media/10d.svg": "/project-weatherforecast/static/media/10d.4355642e477e0f2b40b9.svg",
+    "static/media/10n.svg": "/project-weatherforecast/static/media/10n.4355642e477e0f2b40b9.svg",
+    "static/media/09d.svg": "/project-weatherforecast/static/media/09d.c35f70cf986cbfb246af.svg",
+    "static/media/09n.svg": "/project-weatherforecast/static/media/09n.c35f70cf986cbfb246af.svg",
+    "static/media/04d.svg": "/project-weatherforecast/static/media/04d.ac2e80ec495bbe222d53.svg",
+    "static/media/04n.svg": "/project-weatherforecast/static/media/04n.ac2e80ec495bbe222d53.svg",
+    "static/media/cloudy_moon.svg": "/project-weatherforecast/static/media/cloudy_moon.42850b96e0f6d55fc5da.svg",
+    "static/media/01d.svg": "/project-weatherforecast/static/media/01d.b0c593ac07c9c62a28d5.svg",
+    "static/media/01n.svg": "/project-weatherforecast/static/media/01n.b0c593ac07c9c62a28d5.svg",
+    "static/media/50d.svg": "/project-weatherforecast/static/media/50d.a99a8b2aec6ef0e56f23.svg",
+    "static/media/50n.svg": "/project-weatherforecast/static/media/50n.a99a8b2aec6ef0e56f23.svg",
+    "index.html": "/project-weatherforecast/index.html",
+    "main.e6c13ad2.css.map": "/project-weatherforecast/static/css/main.e6c13ad2.css.map",
+    "main.01e434ed.js.map": "/project-weatherforecast/static/js/main.01e434ed.js.map",
+    "787.b7019c3e.chunk.js.map": "/project-weatherforecast/static/js/787.b7019c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01e434ed.js"
+  ]
+}
